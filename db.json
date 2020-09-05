@@ -1,0 +1,32 @@
+{
+"HospitalDetails":[
+    {
+        "id":1,
+        "name": "Trama center",
+        "place": "Banaras hindu university,varanasi,UP",
+        "number": "7032629788",
+        "address":"Banaras hindu university,varanasi, \n UP,221005"
+
+    }
+],
+"DriverDetails":[
+    {
+        "name": "Rajesh Devarkonda",
+        "contact":"7032629788" 
+    }
+],
+"PatientDetails":[
+    {
+        "name": "Rajini Devarkonda",
+        "Age": 45,
+        "Contact": 9810865655,
+        "Address": "Banaras hindu University,varanasi,\nUP,21005",
+        "priority": 5,
+        "Case": "Heart attack",
+        "Details": "Heartattack,\nunconscious",
+        "Route":"Hyderabad Gate - Vt temple - sunderlal hospital - lanka gate - trama center"
+    }
+]
+
+   
+}
