@@ -1,5 +1,5 @@
 {
-"HospitalDetails":[
+"HospitalDetails":
     {
         "id":1,
         "name": "Trama center",
@@ -8,7 +8,7 @@
         "address":"Banaras hindu university,varanasi, \n UP,221005"
 
     }
-],
+,
 "DriverDetails":[
     {
         "name": "Rajesh Devarkonda",
@@ -16,8 +16,8 @@
     }
 ],
 "PatientDetails":[
-    {
-        "name": "Rajini Devarkonda",
+    
+       { "name": "Rajini Devarkonda",
         "Age": 45,
         "Contact": 9810865655,
         "Address": "Banaras hindu University,varanasi,\nUP,21005",
